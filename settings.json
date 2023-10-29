@@ -3,12 +3,13 @@
     "workbench.iconTheme": "material-icon-theme",
     "workbench.colorTheme": "Dracula",
     "workbench.tree.indent": 15,
-    "window.zoomLevel": -1,
+    "window.zoomLevel": -0.5,
     // Editor 
     "editor.tabSize": 2,
     "editor.formatOnSave": true,
     "editor.linkedEditing": true,
     "editor.formatOnPaste": true,
+    "editor.fontFamily": "JetBrains Mono",
     // VSCode 
     "breadcrumbs.enabled": true,
     "explorer.compactFolders": false,
