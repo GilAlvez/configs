@@ -1,31 +1,31 @@
 {
-    // Workbench
-    "workbench.iconTheme": "material-icon-theme",
-    "workbench.colorTheme": "Dracula Soft",
-    "workbench.tree.indent": 15,
-    "window.zoomLevel": -0.5,
-    // Editor
-    "editor.tabSize": 2,
-    "editor.formatOnSave": true,
-    "editor.linkedEditing": true,
-    "editor.formatOnPaste": true,
-    "editor.fontFamily": "JetBrains Mono",
-    "editor.codeActionsOnSave": {
-        "source.fixAll": "always",
-        "source.fixAll.eslint": "always",
-        "source.organizeImports": "always",
-        "source.addMissingImports": "always",
-    },
-    // VSCode
-    "breadcrumbs.enabled": true,
-    "explorer.compactFolders": false,
-    "explorer.confirmDragAndDrop": false,
-    // Others
-    "material-icon-theme.activeIconPack": "react",
-    "git.confirmSync": false,
-    "git.autofetch": true,
-    "javascript.updateImportsOnFileMove.enabled": "always",
-    "typescript.updateImportsOnFileMove.enabled": "always",
-    "terminal.integrated.defaultProfile.windows": "Git Bash",
-    "terminal.integrated.defaultProfile.linux": "zsh"
+  // Workbench
+  "workbench.iconTheme": "material-icon-theme",
+  "workbench.colorTheme": "Dracula Soft",
+  "workbench.tree.indent": 15,
+  "window.zoomLevel": -0.5,
+  // Editor
+  "editor.tabSize": 2,
+  "editor.formatOnSave": true,
+  "editor.linkedEditing": true,
+  "editor.formatOnPaste": true,
+  "editor.fontFamily": "JetBrains Mono",
+  "editor.codeActionsOnSave": {
+    "source.fixAll": "always",
+    "source.fixAll.eslint": "always",
+    "source.organizeImports": "always",
+    "source.addMissingImports": "always"
+  },
+  // VSCode
+  "breadcrumbs.enabled": true,
+  "explorer.compactFolders": false,
+  "explorer.confirmDragAndDrop": false,
+  // Others
+  "material-icon-theme.activeIconPack": "react",
+  "git.confirmSync": false,
+  "git.autofetch": true,
+  "javascript.updateImportsOnFileMove.enabled": "always",
+  "typescript.updateImportsOnFileMove.enabled": "always",
+  "terminal.integrated.defaultProfile.windows": "Git Bash",
+  "terminal.integrated.defaultProfile.linux": "zsh"
 }
