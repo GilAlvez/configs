@@ -1,0 +1,22 @@
+{
+  "recommendations": [
+    "ms-vscode.vscode-typescript-next", // JavaScript and TypeScript Nightly
+    "dbaeumer.vscode-eslint", // ESLint
+    "esbenp.prettier-vscode", // Prettier
+    "naumovs.color-highlight", // Color Highlight
+    "mikestead.dotenv", // DotENV
+    "EditorConfig.EditorConfig", // EditorConfig for VS Code
+    "eamodio.gitlens", // GitLens
+    "PKief.material-icon-theme", // Material Icon Theme
+    "DavidAnson.vscode-markdownlint", // markdownlint
+    "mohsen1.prettify-json", // Prettify Json
+    "quicktype.quicktype", // Paste JSON as Code
+    "rangav.vscode-thunder-client", // Thunder Client
+    "usernamehw.errorlens", // Error Lens
+    "wix.vscode-import-cost", // Import Cost
+    "formulahendry.auto-rename-tag", // Auto Rename Tag
+    "styled-components.vscode-styled-components", // vscode-styled-components
+    "bradlc.vscode-tailwindcss", // Tailwind CSS IntelliSense
+    "SimonSiefke.svg-preview" // Svg Preview
+  ]
+}
